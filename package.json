@@ -1,0 +1,7 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Catherine Kleimeier <catherine.kleimeier@gmail.com>",
+  "license": "MIT"
+}
